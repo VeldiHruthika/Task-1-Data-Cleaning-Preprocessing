@@ -23,4 +23,8 @@ What I did in this task:
 
 8.Finally checked the cleaned data and saved it as a new CSV file.
 
+9.Plotted a heatmap to see how features are related to each other — helps to understand which columns are strongly connected.
+
+10.Checked skewness for 'Age' and 'Fare' to see if the data is normally distributed or not — useful to decide if transformations are needed later.
+    
 Titanic-Dataset.csv — the original dataset I used.
